@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭I'm currently working on a project of NLP.<br>💻I'm looking for an Internship in Data Science and Machine Learning.<br>🌱I'm currently learning various tools for Data science.<br>💬Ask me about my Projects.<br>⚡Fun fact I'm very hard working.
+🔭I'm currently working on a project of NLP.<br>💻I'm hiring for the Gen AI developer.<br>🌱I'm currently working as a Jr Developer at Cyber Infrastructures.<br>💬Pitch you the old and going projects I'm working upon.
 
 
 ## 🌐 Socials:
