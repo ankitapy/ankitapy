@@ -1,6 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭I'm currently working on a project of NLP.<br>💻I'm hiring for the Gen AI developer.<br>🌱I'm currently working as a Jr Developer at Cyber Infrastructures.<br>💬Pitch you the old and going projects I'm working upon.
+🔭 I'm currently working on a project of NLP.<br>💻 I'm looking for hiring opportunities as a Gen AI Developer.<br>🌱 I'm currently working as a Jr Developer at Cyber Infrastructures.<br>💬 Pitch you the old and ongoing projects I'm working upon.<br>
+
+#Python #GenAI #NLP #LLM #LangChain #LangGraph #FastAPI
 
 
 ## 🌐 Socials:
